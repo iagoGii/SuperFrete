@@ -43,6 +43,8 @@ O objetivo deste projeto é validar o fluxo de cálculo de frete, garantindo que
 npx cypress run --headless --browser chrome
 ```
 
+![Captura de tela 2024-09-22 193409](https://github.com/user-attachments/assets/468325d9-82cb-4d62-a417-4cb0562f78f4)
+
 
 ## 📌 Casos de Teste Implementados
 
