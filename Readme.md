@@ -2,23 +2,23 @@
 
 Este projeto contém testes automatizados para o sistema de cálculo de frete do site SuperFrete, utilizando o Cypress como ferramenta de automação.
 
-## Sumário
+## 📌 Sumário
 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Pré-requisitos](#pré-requisitos)
 - [Como Executar os Testes](#como-executar-os-testes)
 - [Casos de Teste Implementados](#casos-de-teste-implementados)
 
-## Descrição do Projeto
+## 💡 Descrição do Projeto
 
 O objetivo deste projeto é validar o fluxo de cálculo de frete, garantindo que todos os cenários funcionem conforme esperado. Os testes abordam a interação do usuário com o formulário de cálculo, incluindo validações de entrada e mensagens de erro.
 
-## Pré-requisitos
+## 🚀 Pré-requisitos
 
 - Node.js (versão 12 ou superior)
 - Cypress (instalado localmente)
 
-## Como Executar os Testes
+## 👨🏻‍💻 Como Executar os Testes
 
 - Navegue até o diretório do projeto:
 
@@ -44,7 +44,7 @@ npx cypress run --headless --browser chrome
 ```
 
 
-## Casos de Teste Implementados
+## 📌 Casos de Teste Implementados
 
 Os seguintes casos de teste foram implementados:
 
@@ -63,4 +63,10 @@ Os seguintes casos de teste foram implementados:
 5. Manutenção dos dados após um refresh <br/>
 [v] Verifica se os dados preenchidos permanecem após um refresh da página ou se estão vazios quando não preenchidos.
 
+## 📝 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feito por &nbsp;por Iago Oliveira 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/iago-guedess/)
