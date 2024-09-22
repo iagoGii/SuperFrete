@@ -50,20 +50,21 @@ npx cypress run --headless --browser chrome
 
 Os seguintes casos de teste foram implementados:
 
-1. Preenchimento correto do formulário de cálculo de frete <br/>
-[v] Verifica se o usuário consegue preencher todos os campos corretamente e se as informações são salvas.
+1. **Preenchimento correto do formulário de cálculo de frete**  
+   Verifica se o usuário consegue preencher todos os campos corretamente e se as informações são salvas.
 
-2. Erro ao preencher CEP de origem inválido. <br/>
-[v] Valida se o sistema retorna uma mensagem de erro quando um CEP de origem inválido é fornecido.
+2. **Erro ao preencher CEP de origem inválido**  
+   Valida se o sistema retorna uma mensagem de erro quando um CEP de origem inválido é fornecido.
 
-3. Mensagens de erro para campos obrigatórios e inválidos <br/>
-[v] Testa a exibição de mensagens de erro quando campos obrigatórios não são preenchidos.
+3. **Mensagens de erro para campos obrigatórios e inválidos**  
+   Testa a exibição de mensagens de erro quando campos obrigatórios não são preenchidos.
 
-4. Erro para valores extremamente altos em peso e dimensões <br/>
-[v] Garante que o sistema informe ao usuário quando valores de peso e dimensões estão fora do permitido.
+4. **Erro para valores extremamente altos em peso e dimensões**  
+   Garante que o sistema informe ao usuário quando valores de peso e dimensões estão fora do permitido.
 
-5. Manutenção dos dados após um refresh <br/>
-[v] Verifica se os dados preenchidos permanecem após um refresh da página ou se estão vazios quando não preenchidos.
+5. **Manutenção dos dados após um refresh**  
+   Verifica se os dados preenchidos permanecem após um refresh da página ou se estão vazios quando não preenchidos.
+
 
 ## 📝 License
 
