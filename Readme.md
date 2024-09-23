@@ -72,4 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feito por &nbsp;por Iago Oliveira 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/iago-guedess/)
+Feito por &nbsp;Iago Oliveira 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/iago-guedess/)
